@@ -50,7 +50,7 @@ function verificarResultado(){
         alert(`Parabéns! Você foi aprovado!`)
     }else{
 
-        alert(`Tente novamente!`);
+        alert(`Tente novamente, mais tarde!`);
     }
 
     resetar()
